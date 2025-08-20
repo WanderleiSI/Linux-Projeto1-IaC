@@ -59,6 +59,8 @@ Para executar o provisionamento, siga os passos abaixo:
 
 Após a execução, toda a estrutura de usuários, grupos e diretórios estará configurada.
 
+Obs: Em algumas versões do Linux, o uso do parâmetro `-crypt` não é mais necessário, sendo recomendada sua remoção das linhas que iniciam com `useradd`.
+
 ## 💡 Conceitos Aplicados
 
 Este projeto reforça conhecimentos fundamentais em administração de sistemas Linux e cultura DevOps:
